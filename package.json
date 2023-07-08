@@ -1,0 +1,12 @@
+{
+  "name": "thunderbird-email-response-generator",
+  "version": "1.0.0",
+  "description": "A Thunderbird plugin that generates responses to emails using the OpenAI GPT API.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "openai": "^0.0.3"
+  }
+}
